@@ -1,0 +1,7 @@
+config_section = "default"
+group_name         = "" // your Akamai Group Name
+product_id         = "prd_Fresca"
+contract_id        = "" // your Akamai Contract ID
+property_name  = "site-b"
+cname_from     = "site-b-www.example.com"
+cname_to       = "site-b.example.com.edgesuite.net"
